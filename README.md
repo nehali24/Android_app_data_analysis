@@ -10,3 +10,4 @@ When a plot was obtained for Categories vs App price trending,  when i tried ana
 Paid apps vs free apps analysis: When this analysis was done it showed that paid apps definately has less number of downloads the free apps.
 I also has user review data though which i performed sentiment analysis, i could see that free apps receives lot of negavtive comments, whereas paid apps rarely receive negative comments. 
 
+![output_18_1](https://user-images.githubusercontent.com/60546284/92946483-a456cd80-f44e-11ea-85c8-4f364933e711.png)
