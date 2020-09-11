@@ -5,7 +5,7 @@ As we know how app rating affects the brand image of any app, we also found that
 Even when we tried plotting the histogram of average app rating we found that plot was skewed to right which indicated that majority of apps are highly rated.
 
 Price for any app depends on the catagory, interest , features, motive and platform. Different catagories of apps will show different price range.
-When a plot was obtained for Categories vs App price trending,  whne i tried analysing apps whose price was above 200, it was shown in plot that gaming and business genre apps are not that expensive but  medical and photography apps were very expensive and was downloaded only by a genre of users. 
+When a plot was obtained for Categories vs App price trending,  when i tried analysing apps whose price was above 200, it was shown in plot that gaming and business genre apps are not that expensive but  medical and photography apps were very expensive and was downloaded only by a genre of users. 
 
 Paid apps vs free apps analysis: When this analysis was done it showed that paid apps definately has less number of downloads the free apps.
 I also has user review data though which i performed sentiment analysis, i could see that free apps receives lot of negavtive comments, whereas paid apps rarely receive negative comments. 
