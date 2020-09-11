@@ -11,3 +11,4 @@ Paid apps vs free apps analysis: When this analysis was done it showed that paid
 I also has user review data though which i performed sentiment analysis, i could see that free apps receives lot of negavtive comments, whereas paid apps rarely receive negative comments. 
 
 ![output_18_1](https://user-images.githubusercontent.com/60546284/92946483-a456cd80-f44e-11ea-85c8-4f364933e711.png)
+![output_21_1](https://user-images.githubusercontent.com/60546284/92947039-65754780-f44f-11ea-9b80-7da15d5c8d6f.png)
